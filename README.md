@@ -1,4 +1,5 @@
 # [Relay](https://facebook.github.io/relay/) [![Build Status](https://travis-ci.org/facebook/relay.svg?branch=master)](https://travis-ci.org/facebook/relay) [![npm version](https://badge.fury.io/js/react-relay.svg)](http://badge.fury.io/js/react-relay)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Frelay.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Frelay?ref=badge_shield)
 
 Relay is a JavaScript framework for building data-driven React applications.
 
@@ -33,3 +34,6 @@ We have a [community-maintained list](./USERS.md) of people and projects using R
 ## License
 
 Relay is [MIT licensed](./LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Frelay.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Frelay?ref=badge_large)
